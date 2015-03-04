@@ -1,4 +1,4 @@
-Creative
+Get Bangla KeyBoard
 ========
 
-A Responsive Template for Creative works
+An open source Bangla Keyboard for Bengali people. 
